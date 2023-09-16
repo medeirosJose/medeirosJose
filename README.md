@@ -1,11 +1,23 @@
 ### Hi, I'm Jose Eduardo, a developer from Brazil!👋
 
-- 🌱 I’m currently learning C++ and GameDev
+> 🤓 I’m currently learning C++ / C# and GameDev
   
-- 😄 Pronouns: He/Him
+> ✌️ Pronouns: He/Him
 
-- 🎻 Curious fact: I'm also a Violinist!
+> 🎻 Curious fact: I'm also a Violinist!
 
-Technologies I've used:
+> 😶‍🌫️ Actually trying to make my GitHub prettier 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosJose&layout=compact)
+---
+### Most used languages (so far):
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=medeirosJose&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+----
+###  📱 Here is how you can reach me (also, so far)! 
+
+<a href = "https://www.linkedin.com/in/medeirosjose/">
+  <img align ="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>

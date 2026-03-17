@@ -1,4 +1,4 @@
-<img width="2000" height="250" alt="vale-de-verao-com-rio-e-montanhas-no-horizonte-a-noite-ilustracao-de-desenho-vetorial-da-paisagem-natural-com-pedras-de-arbustos-de-fluxo-de-agua-e-lua-cheia-no-ceu" src="https://github.com/user-attachments/assets/6b25889d-df08-440d-8f57-d8f8bd6a1cda" />
+<img width="2000" height="250" alt="top banner" src="https://github.com/user-attachments/assets/6b25889d-df08-440d-8f57-d8f8bd6a1cda" />
 
 # 👋 Hey, there! I'm José :) 
 
@@ -30,16 +30,13 @@
 
 ### 💬 Get in Touch
 
-<div align="left" style="margin-bottom: 8px;">
+<div align="left">
 
   [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medeirosJose/)
- <a href="https://www.medeirosjose.dev/">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white" />
-</a>
+  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white)](https://www.medeirosjose.dev/)
 
   
 </div>
-<br><br>
 
 
-<img width="2000" height="250" alt="vale-de-verao-com-rio-e-montanhas-no-horizonte-a-noite-ilustracao-de-desenho-vetorial-da-paisagem-natural-com-pedras-de-arbustos-de-fluxo-de-agua-e-lua-cheia-no-ceu" src="https://github.com/user-attachments/assets/9e0f822c-9273-448a-a9e0-d9b89d65b38d" />
+<img width="2000" height="250" alt="bottom banner" src="https://github.com/user-attachments/assets/9e0f822c-9273-448a-a9e0-d9b89d65b38d" />

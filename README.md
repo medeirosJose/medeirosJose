@@ -30,7 +30,7 @@
 
 ### 💬 Get in Touch
 
-<div align="left">
+<div align="left" style="margin-bottom: 8px;">
   <a href="https://www.linkedin.com/in/medeirosjose/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -40,6 +40,7 @@
   </a>
 </div>
 
-<img width="1280" height="518" alt="profile_bottom_img" src="https://github.com/user-attachments/assets/a2149db7-3588-4d0c-be82-858da8d6b0a3" />
+<br><br>
 
+<img width="1280" height="518" alt="profile_bottom_img" src="https://github.com/user-attachments/assets/09c357cb-3933-422c-8216-91c5f8ba4bbd" />
 

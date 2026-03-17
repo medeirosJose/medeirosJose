@@ -4,7 +4,7 @@
 
 
 <div>
-  <img src="https://github.com/user-attachments/assets/b94f74b3-8bfe-4f53-afaa-438da5a83217" align="right" width="300"/>
+  <img src="https://github.com/user-attachments/assets/b94f74b3-8bfe-4f53-afaa-438da5a83217" align="right" width="280"/>
 
   <h3> ℹ️ About me</h3>
   <ul>
